@@ -1,49 +1,16 @@
 def second_challenge
-epic_tragedy = {
-  :montague => {
-    :patriarch => {  
-      :name => "Lord Montague",
-      :age => "53"
-  },
-    :matriarch => {
-      :name => "Lady Montague",
-      :age => "54"
-  },
-    :hero => {
-      :name => "Romeo",
-      :age => "15"
-  },
-    :hero_friends => [
-      {
-         :name => "Benvolio",
-      },
-      {
-        :name => "Mercutio",
-      }
-    ]
-  },
-  :capulet => {
-    :patriarch => {
-      :name => "Lord Capulet",
-      :age => "50"
-    },
-    :matriarch => {
-      :name => "Lady Capulet",
-      :age => "51"
-    },
-    :heroine => {
-      :name => "Juliet",
-    },
-    :heroine_friends=> [
-      {
-        :name => "Steven",
-        :age => "30",
-      },
-      {
-        :name => "Nurse",
-        :age => "44",
-      }
-    ]
-  }
-} 
+eepic_tragedy = {
+   :montague => {
+      :patriarch => {:name => "Lord Montague",},
+      :matriarch => {"Lady Montague",},
+      :hero => {"Romeo",},
+      :hero_friends => []
+   },
+   :capulet => {
+      :patriarch => {},
+      :matriarch => {},
+      :heroine => {},
+      :heroine_friends => []
+   }
+}
 end
