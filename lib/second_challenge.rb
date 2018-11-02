@@ -4,7 +4,7 @@ eepic_tragedy = {
       :patriarch => {:name => "Lord Montague",},
       :matriarch => {:name => "Lady Montague",},
       :hero => {:name => "Romeo",},
-      :hero_friends => [:name => "Benolvio"]
+      :hero_friends => [:name => "Benvolio"]
    },
    :capulet => {
       :patriarch => {},
