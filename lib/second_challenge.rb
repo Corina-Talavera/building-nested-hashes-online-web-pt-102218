@@ -16,11 +16,9 @@ epic_tragedy = {
     :hero_friends => [
       {
          :name => "Benvolio",
-         :age => "17",
       },
       {
         :name => "Mercutio",
-        :age => "18",
       }
     ]
   },
