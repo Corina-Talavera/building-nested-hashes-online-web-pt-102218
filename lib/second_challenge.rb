@@ -1,5 +1,5 @@
 def second_challenge
-eepic_tragedy = {
+epic_tragedy = {
    :montague => {
       :patriarch => {:name => "Lord Montague",},
       :matriarch => {:name => "Lady Montague",},
