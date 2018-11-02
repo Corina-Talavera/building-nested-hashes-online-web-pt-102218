@@ -5,10 +5,8 @@ def second_challenge
       :matriarch => {:name => "Lady Montague"},
       :hero => {:name => "Romeo"},
       :hero_friends => [
-        {
-         :name => "Benvolio",
-         },
-      {:name => "Mercutio"}
+        {:name => "Benvolio"},
+        {:name => "Mercutio"}
     ]
   },
    :capulet => {
