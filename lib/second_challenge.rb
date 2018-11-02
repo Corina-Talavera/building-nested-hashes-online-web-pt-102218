@@ -7,10 +7,10 @@ eepic_tragedy = {
       :hero_friends => [{:name => "Benvolio",},{:name => "Mercutio",}]
    },
    :capulet => {
-      :patriarch => {},
-      :matriarch => {},
-      :heroine => {},
-      :heroine_friends => []
+      :patriarch => {:name => "Lord Capulet",},
+      :matriarch => {:name => "Lady Capulet",},
+      :heroine => {:name => "Juliet",},
+      :heroine_friends => [{:name => "Steven",},{:name => "Nurse",}]
    }
 }
 end
